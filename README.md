@@ -1,7 +1,3 @@
 # git-demo
-derfbvb
-cvbvb
-vcbc
-vbc
-vb
-cb
+
+delete figures from song.txt
